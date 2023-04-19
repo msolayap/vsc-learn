@@ -1,3 +1,5 @@
+#!/bin/bash
+
 name=MURALI
 lname=VPK
 
