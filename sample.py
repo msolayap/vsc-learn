@@ -1,7 +1,10 @@
 #!/usr/bin/bash
 
 name = "murali"
-lname = "vpk"
+lname = "vpk the great"
 
-print("%s cares %s" % (lname, name));
+print("%s really cares %s" % (lname, name));
 print ("Today is Wednesday");
+
+for char in ["m","u","r","a","l","i"]:
+    print("%c" % (char), end="")
