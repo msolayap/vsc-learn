@@ -1,4 +1,3 @@
-#!/usr/bin/bash
 
 name = "murali"
 lname = "vpk the great"
