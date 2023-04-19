@@ -8,3 +8,4 @@ print ("Today is Wednesday");
 
 for char in ["m","u","r","a","l","i"]:
     print("%c" % (char), end="")
+    
